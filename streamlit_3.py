@@ -1,4 +1,3 @@
-import streamlit as st
 # Importation du module
 from streamlit_option_menu import option_menu
 # from pysteamauth.auth import Steam
