@@ -2,7 +2,7 @@
 from streamlit_option_menu import option_menu
 # from pysteamauth.auth import Steam
 import streamlit as st
-
+from pysteamauth.auth import Steam
 from pysteamauth import auth
 # import streamlit_authenticator as stauth
 # Création du menu qui va afficher les choix qui se trouvent dans la variable options
